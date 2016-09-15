@@ -1,0 +1,19 @@
+{
+  "name": "l8er.tech",
+  "version": "1.0.0",
+  "description": "Snooze your gmail",
+  "main": "index.js",
+  "engines": {
+    "node": "^6.2.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Igor Soarez <soarez@mail.me>",
+  "license": "MIT",
+  "dependencies": {
+    "async": "2.0.1",
+    "googleapis": "^12.4.0",
+    "mkdirp": "^0.5.1"
+  }
+}
